@@ -139,4 +139,4 @@ const countDownClock = (number = 100, format = 'seconds') => {
 	enter number and format
 	days, hours, minutes or seconds
 */
-countDownClock(90, 'days');
+countDownClock(180, 'days');
